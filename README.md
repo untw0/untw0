@@ -1,3 +1,4 @@
+```c
 #include <stdio.h>
 
 typedef struct {
@@ -22,3 +23,4 @@ int main() {
     aboutMe.base.studying = "Information Systems";
     aboutMe.base.learning = "Web Hacking";
 }
+```
