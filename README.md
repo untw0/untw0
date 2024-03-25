@@ -12,7 +12,7 @@ typedef struct {
 } AboutMe;
 
 typedef struct {
-    Developer base;
+    Hacker base;
     const char* languages[3];
     const char* tools[1];
 } Skills;
