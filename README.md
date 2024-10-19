@@ -1,5 +1,5 @@
 # [untw0](https://untw0.github.io/) 
-#### I'm a Security Researcher & Malware Analyst. Blog with my reachers and studies > [blog](https://untw0.github.io/)
+#### I'm a Security Researcher & Malware Analyst. Blog with my reachers and studies > [untw0.github.io](https://untw0.github.io/)
 ![untw0](banner.gif)
 
 ## GitHub Stats
