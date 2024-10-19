@@ -1,6 +1,6 @@
 # [untw0](https://untw0.github.io/) 
 <!-- <img src="wave.gif" width="24px"> -->
-![nsaspy](banner.png)
+![nsaspy](banner.gif)
 
 Im Security Researcher & Malware Analyst.
 You can look at my [blog](https://untw0.github.io/)
