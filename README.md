@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @untw0
-- Security Researcher
-- Malware Analyst
-- C, C++, RUST, ASSEMBLY, JS, PYTHON
+- What's up? I'm Maiquel Paiva (untw0)!
+- Security Researcher, Malware Analyst.
+- C, C++, RUST, ASSEMBLY, JS, PYTHON.
