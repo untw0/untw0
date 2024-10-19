@@ -1,4 +1,4 @@
-# nsaspy [nsaspy](https://untw0.github.io/) 
+# [untw0](https://untw0.github.io/) 
 <!-- <img src="wave.gif" width="24px"> -->
 ![nsaspy](banner.png)
 
