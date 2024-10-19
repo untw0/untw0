@@ -3,7 +3,7 @@
 #### I'm a Security Researcher & Malware Analyst.
 ![untw0](banner.gif)
 
-#### My [blog](https://untw0.github.io/)
+#### Look my blog > [blog](https://untw0.github.io/)
 
 ## GitHub Stats
 
