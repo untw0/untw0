@@ -1,9 +1,9 @@
 # [untw0](https://untw0.github.io/) 
 <!-- <img src="wave.gif" width="24px"> -->
+#### I'm a Security Researcher & Malware Analyst.
 ![nsaspy](banner.gif)
 
-Im Security Researcher & Malware Analyst.
-You can look at my [blog](https://untw0.github.io/)
+#### My [blog](https://untw0.github.io/)
 
 ## GitHub Stats
 
