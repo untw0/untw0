@@ -1,3 +1,3 @@
 - What's up? I'm Maiquel Paiva (untw0)!
 - Security Researcher, Malware Analyst.
-- C, C++, RUST, ASSEMBLY, JS, PYTHON.
+- C, RUST, ASSEMBLY, JS, PYTHON.
