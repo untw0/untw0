@@ -1,5 +1,3 @@
-# [untw0](https://untw0.github.io/) 
-
 ## GitHub Stats
 
 <a href="https://github.com/untw0">
